@@ -562,10 +562,9 @@
                 <div class="glass-card overflow-hidden h-100">
                     <div class="project-image">🛒</div>
                     <div class="p-4">
-                        <h4 class="fw-bold">Online Shop</h4>
+                        <h4 class="fw-bold">Sistem Pendataan Stok Barang</h4>
                         <p class="text-muted-custom small">
-                            Website e-commerce dengan fitur produk,
-                            keranjang belanja dan checkout.
+                           Sistem untuk menambah, mengubah, menghapus data barang.
                         </p>
                         <div class="mb-3">
                             <span class="tag">HTML</span>
