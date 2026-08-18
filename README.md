@@ -287,7 +287,7 @@ Portofolio Brilliant Sukma Mahardika
             <div class="col-lg-9 reveal">
                 <div class="hero-badge mb-4 shadow-sm">
                     <i class="bi bi-hand-wave"></i>
-                    Welcome to my portfolio
+                    Welcome to my portofolio
                 </div>
 
                 <h1>
@@ -335,7 +335,7 @@ Portofolio Brilliant Sukma Mahardika
             <div class="col-6 col-lg-3 reveal">
                 <div class="glass-card text-center p-4 h-100">
                     <div class="display-6 fw-bold gradient-text">3+</div>
-                    <div class="small text-muted-custom">Portfolio Projects</div>
+                    <div class="small text-muted-custom">portofolio Projects</div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 reveal">
@@ -347,7 +347,7 @@ Portofolio Brilliant Sukma Mahardika
             <div class="col-6 col-lg-3 reveal">
                 <div class="glass-card text-center p-4 h-100">
                     <div class="display-6 fw-bold gradient-text">2026</div>
-                    <div class="small text-muted-custom">Portfolio Edition</div>
+                    <div class="small text-muted-custom">portofolio Edition</div>
                 </div>
             </div>
         </div>
@@ -533,11 +533,11 @@ Portofolio Brilliant Sukma Mahardika
                         <div>
                             <h5 class="fw-bold">Current Goal</h5>
                             <p class="text-muted-custom mb-3">
-                                Membuat portfolio dan project yang lebih profesional
+                                Membuat portofolio dan project yang lebih profesional
                                 untuk menunjukkan kemampuan kepada calon perusahaan
                                 atau client.
                             </p>
-                            <span class="tag">Portfolio</span>
+                            <span class="tag">portofolio</span>
                             <span class="tag">Freelance</span>
                             <span class="tag">Career</span>
                         </div>
