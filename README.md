@@ -1,5 +1,3 @@
-# brilliantsm_.github.io
-Portofolio Brilliant Sukma Mahardika
 <!DOCTYPE html>
 <html lang="id">
 <head>
